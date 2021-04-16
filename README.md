@@ -1,8 +1,8 @@
 # Group17FinalProject
-**Title of Project**
+**Title of Project:**
 Song Database
 
-**Team Members**
+**Team Members:**
 Justin Woo (section 3)
 Deo Gracias Ong (section 3)
 Lex Lei (section 3)
