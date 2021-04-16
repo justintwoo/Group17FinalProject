@@ -38,8 +38,9 @@ Song’s enumeration is its genre. There are a limited amount of genres availabl
 The user interface that we plan to implement for our song database will allow for creating, reading, updating, and deleting each of the user models and domain object models. For each user model and domain object, there will be navigation to screens for various purposes:
 
 Users
-   /t Display all users
-    /n Create User
+   
+   \t Display all users
+    \n Create User
     Edit User
     Delete User
 Songs
