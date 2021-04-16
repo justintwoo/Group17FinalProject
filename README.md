@@ -44,15 +44,18 @@ Users
     Edit User
     Delete User
 Songs
+
     Display all songs
     Add Songs
     Delete Songs
 Playlists
+
     Display all playlists
     Create playlist & add songs from song lists
     Edit Playlist
     Delete Playlist
 Ratings
+
     View all ratings for each playlist
     Create rating for a playlist
     Delete rating for a playlist
