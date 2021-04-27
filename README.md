@@ -13,7 +13,7 @@ Gyuwon Lee (section 3)
 The song database aims to create a platform where songs can be stored according to each user’s preferences (similar to Spotify playlists). Each song has a specific genre to them, which can help users determine which songs they want in their playlists. Users can also determine which songs the general public likes by looking at the rating. Playlists that appeal to several users can ‘follow’ the playlist, increasing its following count. The platform comes with a user interface that allows each user to navigate smoothly to different songs and playlists available to them. 
 
 
-**Important Instructions
+**Important Instructions**
 In order to run the app, you have to have node js and npm installed. The user interface is called my-app and you hav to go to the directory that is called my-ap and run npm install. Then, to run the app, you have to use npm start.
 
 
