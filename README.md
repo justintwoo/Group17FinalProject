@@ -15,8 +15,9 @@ The song database aims to create a platform where songs can be stored according 
 
 **Important Instructions**
 
-In order to run the app, you have to have node js and npm installed. The user interface is called my-app and you have to go to the directory that is called my-ap and run npm install. Then, to run the app, you have to use npm start.
+In order to run the app, you have to have node js and npm installed. The user interface is called my-app and you have to go to the directory that is called my-app and run npm install. Then, to run the app, you must navigate to \src\main\my-app and type in "npm start" to the terminal.
 
+\src\main\my-app>npm start
 
 
 **Link to UML Diagram**
