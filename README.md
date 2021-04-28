@@ -15,7 +15,7 @@ The song database aims to create a platform where songs can be stored according 
 
 **Important Instructions**
 
-In order to run the app, you have to have node js and npm installed. The user interface is called my-app and you have to go to the directory that is called my-app and run npm install. Then, to run the app, you must navigate to \src\main\my-app and type in "npm start" to the terminal. The source code is located in the Master branch of this repository.
+In order to run the app, you have to have node js and npm installed. The user interface is called my-app and you have to go to the directory that is called my-app and run npm install. Then, to run the app, you must navigate to \src\main\my-app in the Intellij termina and type in "npm start". The source code is located in the Master branch of this repository.
 
 \src\main\my-app>npm start
 
