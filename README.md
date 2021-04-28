@@ -27,7 +27,7 @@ https://github.com/justintwoo/Group17FinalProject/blob/main/db_design_final_proj
 
 **Description of User Data Model**
 
-The user data model for our database is given the properties, first name, last name, username, password, date of birth, and email address. Each user can create playlists, store songs, and rate other playlists.
+The user data model for our database is given the properties, first name, last name, username, password, date of birth, and email address. Each user can create playlists, store songs, and rate other playlists. 
 
 
 **Description of the Two Domain Object Data Models**
@@ -71,7 +71,6 @@ Playlists
 
     Display all playlists
     Create playlist & add songs from song lists
-    Edit Playlist
     Delete Playlist
 Ratings
 
